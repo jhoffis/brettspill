@@ -2,4 +2,9 @@ om du er 1 tile unna en motstander så plusses alle
 Du kan ikke kjøpe en unit på en tile der en dødde kanskje? 
 Eller kanskje du kan ikke ved siden av en enemy unit?
 
+
 Tenker at når du tar income så tar en inn brikker (tårn, musket, cannon, dragoon) i stedet for penger. Kanskje så begynner en med at hver andre tårn gir en brikke elns. Og så kan en oppgradering koste feks 2 muskets og 1 cannon. Og så når du dreper en enemy unit så får du den som slave.
+
+Ved innkjøp tar man å kjøper ved x antall buys. Unit må plasseres ved siden av et tårn og et tårn må plasseres ved siden av en unit.
+
+Action phase: Velg et kort og så snur alle sitt kort samtidig.
