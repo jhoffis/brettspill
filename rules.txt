@@ -10,11 +10,12 @@ Man kan konvertere 3 av ulike typer om til en annen type.
 Til starten tar man et tårn som gir en type av ditt valg.
 Typene er tårn som gir tårn, musket, cannon, dragoon eller bare angrepstårn som gir 3 attack.
 
-Må skyte beint. Kan ikke ta en opp og så ned?
 
 Ved innkjøp tar man å kjøper ved x antall buys. Unit må plasseres ved siden av et tårn og et tårn må plasseres ved siden av en unit.
 
 Action phase: Velg et kort og så snur alle sitt kort samtidig.
+Må skyte beint. Kan ikke ta en opp og så ned?
+For every range -3 attack.
 
 Terrain typer: 
 +0 attack/defense plains, gold
@@ -26,3 +27,12 @@ gold gives a piece of your choosing
 forest or gold give max +1 income if any tower is on it.
 
 Everyone starts with 1 income, 1 buy and 1 action.
+
+Special unit upgrades: 
+    "Move card becomes move and then attack based on new position (remove attack card)",
+    "+1 defense on units"
+    "Moving away from enemy attack reduces damage"
+    "Double terrain modifiers"
+    "No reloading"
+    "After an attack is performed; any loaded adjacent unit may also perform an attack (repeating)"
+    "Cannons can shoot over muskets - meaning they get +3 attack when shooting over muskets"
